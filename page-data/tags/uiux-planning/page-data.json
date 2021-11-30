@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-template-js",
+    "path": "/tags/uiux-planning/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"nodes":[{"fields":{"slug":"/blog/null-02/"},"frontmatter":{"date":"November 02, 2021","description":null,"tags":["Product","UIUX planning","Data Analisys"],"title":""},"timeToRead":1,"excerpt":""}]}},"pageContext":{"tag":"UIUX planning"}},
+    "staticQueryHashes": ["2555585279","2714594843","3159585216"]}

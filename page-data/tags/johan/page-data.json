@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-template-js",
+    "path": "/tags/johan/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"nodes":[{"fields":{"slug":"/blog/null-01/"},"frontmatter":{"date":"November 01, 2021","description":null,"tags":["Johan","Product Owner @Fintech Startup"],"title":""},"timeToRead":1,"excerpt":""}]}},"pageContext":{"tag":"Johan"}},
+    "staticQueryHashes": ["2555585279","2714594843","3159585216"]}
