@@ -5,4 +5,4 @@ template: 'contact-template'
 
 # Get in Touch.
 
-If you've got an inquiry for a job or project, drop me a line at hsyangjohan@gmail.com or fill the form right here.
+<br>If you've got an inquiry for a job or project, <br>drop me a line at hsyangjohan@gmail.com <br>or fill the form right here.

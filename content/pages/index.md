@@ -3,6 +3,6 @@ template: 'index-template'
 title: 
 ---
 
-#Hello World
+#Johan's Blog
 
-<br> 안녕하세요.
+<br> .
