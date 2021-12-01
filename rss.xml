@@ -1,7 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Johan]]></title><description><![CDATA[안녕하세요]]></description><link>https://Huride.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 30 Nov 2021 12:54:39 GMT</lastBuildDate><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hi, I’m Johan…]]></description><link>https://Huride.github.io/about/</link><guid isPermaLink="false">https://Huride.github.io/about/</guid><content:encoded>&lt;h1&gt;Hi, I’m Johan&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Johan]]></title><description><![CDATA[안녕하세요]]></description><link>https://Huride.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 01 Dec 2021 01:24:07 GMT</lastBuildDate><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hi, I’m Johan…]]></description><link>https://Huride.github.io/about/</link><guid isPermaLink="false">https://Huride.github.io/about/</guid><content:encoded>&lt;h1&gt;Hi, I’m Johan&lt;/h1&gt;
 &lt;p&gt;&lt;br&gt; 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Johan’s Blog  .]]></description><link>https://Huride.github.io/</link><guid isPermaLink="false">https://Huride.github.io/</guid><content:encoded>&lt;h1&gt;Johan’s Blog&lt;/h1&gt;
 &lt;p&gt;&lt;br&gt; .&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Contact Me]]></title><description><![CDATA[Get in Touch. If you’ve got an inquiry for a job or project, drop me a line at hsyangjohan@gmail.com or fill the form right here.]]></description><link>https://Huride.github.io/contact/</link><guid isPermaLink="false">https://Huride.github.io/contact/</guid><content:encoded>&lt;h1&gt;Get in Touch.&lt;/h1&gt;
 &lt;p&gt;&lt;br&gt;If you’ve got an inquiry for a job or project, &lt;br&gt;drop me a line at hsyangjohan@gmail.com &lt;br&gt;or fill the form right here.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[원인과 결과를 제대로 알아야 하는 이유]]></title><description><![CDATA[…]]></description><link>https://Huride.github.io/blog/reason-causality/</link><guid isPermaLink="false">https://Huride.github.io/blog/reason-causality/</guid><pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;인과관계를 왜 알아야 할까?&lt;/h2&gt;
+&lt;p&gt;&lt;br&gt;프로덕트의 데이터를 분석하는 이유는 데이터를 통해서 현재의 상황을 진단하고, 현재 영향을 미치고 있는 요인이 향후 어떤 결과를 가져올 지 파악하기 위해서죠. 특히 어떤 지표들이 안좋은 움직임을 보이고 있다면 어떤 원인으로 인해서 지표들이 영향을 받고 있는지 확인하고, 안좋은 영향들을 제거해 정상화 시키려고 노력할텐데요. 결국 정확한 원인을 찾을 수 있어야 좋은 대처를 할 수 있죠.&lt;/p&gt;
+&lt;p&gt;우리가 원인을 파악하려는 이유는 목표로 하는 결과를 우리가 원하는 방향으로 조절해 이득을 얻기 위해서입니다. 우리가 관심 현상에 대한 원인을 파악해 결과를 원하는 방향으로 이끌기 위해 현상에 영향을 주는 원인들을 조정하기 위해서죠.&lt;/p&gt;
+&lt;br&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;원인 파악 → 결과에 미치는 영향 파악 → 원인 조정&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;그리고 제대로 된 원인 파악은 잘못된 결정으로 인한 낭비를 방지하는 효과를 주기도 합니다. &lt;/p&gt;
+&lt;h2&gt;Corelation is not causation! (상관 관계는 인과 관계가 아니다)&lt;/h2&gt;
+&lt;p&gt;&lt;br&gt;인과관계는 원인이 되는 행동을 했을 때와 하지 않았을 때의 결과가 달라지는 것을 말합니다. 즉, 다른 조건이 동일하다는 가정하에 어떤 요인 하나만 바뀌었을 때 결과가 달라지는 경우 해당 요인을 원인이라고 말하게 되고, 이런 현상을 인과관계가 있다고 말하죠.&lt;/p&gt;
+&lt;p&gt;우리는 흔히 원인과 결과를 판단할 때 상관 관계를 살펴보고 그 중 하나를 원인으로, 그리고 나머지 하나를 결과로 판단하는 경우가 있습니다. ‘상관관계’를 ‘인과관계’와 동일시하는 것이죠. &lt;/p&gt;
+&lt;br&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;- 상관관계 : 한 쪽이 증가하면 다른 한 쪽도 증가하거나 반대로 감소하는 경향
+- 인과관계 : 현상은 다른 현상의 원인이 되고, 그 다른 현상은 먼저의 현상의 결과가 되는 관계&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;즉 어떤 일이 일어났을 때, 또 다른 어떤 일이 일어났다고 해서 그 두가지 일은 상관관계가 있다고 말할수 있지만, 인과관계가 있다고 단정지을 수 는 없습니다.
+아래의 상관관계에 대한 이미지를 통해 왜 그런지 살펴볼도록 할게요.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 519px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/016abd94e19da26617dd0da82a803e5e/eac85/correlation.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 92.40506329113923%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe4lChoAP//EABgQAAIDAAAAAAAAAAAAAAAAAAAhARAg/9oACAEBAAEFAhDxF//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABQQAQAAAAAAAAAAAAAAAAAAADD/2gAIAQEABj8CH//EAB4QAQACAgEFAAAAAAAAAAAAAAEAETFRECFBcYGh/9oACAEBAAE/Id2QeyLbpcyqr4nv7BdTJlGuP//aAAwDAQACAAMAAAAQoMg8/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHhABAAICAgMBAAAAAAAAAAAAAQARIXFBURAxkeH/2gAIAQEAAT8QQtEZ6gEa3onQGoFAMplKOPr9QBRYOR9xqK3uZrpevH//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;worng correlation&quot;
+        title=&quot;worng correlation&quot;
+        src=&quot;/static/016abd94e19da26617dd0da82a803e5e/eac85/correlation.jpg&quot;
+        srcset=&quot;/static/016abd94e19da26617dd0da82a803e5e/ff44c/correlation.jpg 158w,
+/static/016abd94e19da26617dd0da82a803e5e/a6688/correlation.jpg 315w,
+/static/016abd94e19da26617dd0da82a803e5e/eac85/correlation.jpg 519w&quot;
+        sizes=&quot;(max-width: 519px) 100vw, 519px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;위의 이미지는 두가지 상관관계를 보여주는 그래프인데요. 하나는 “수영장 익사자 수와 니콜라스 케이지 출연작의 상관관계”를 다른 하나는 “과학, 우주, 첨단 기술에 대한 미국의 투자 비용과 자살의 상관관계”를 보여주는 데요.   &lt;/p&gt;
+&lt;p&gt;이 이미지를 보고 니콜라스 케이지가 영화에 출연하면 수영장익사자가 발생하니 모두의 안전을 위해 니콜라스케이지가 영화 출연을 자제시킨다거나, 과학 투자 때문에 자살이 늘었다고 주장하며 과학투자를 당장 멈춰야 한다고 주장하는 게 맞을까요?&lt;/p&gt;
+&lt;p&gt;사실 우리는 “상식 선에서” 이것이 우연하게 발생했다는 것을 바로 알 수 있죠. &lt;br&gt;
+그리고 우연히 발생한 사건을 가지고 “이게 원인이야”라고 판단할 수 없다는 것도 알고 있죠.&lt;/p&gt;
+&lt;p&gt;상관관계는 어떤 현상의 원인과 결과를 설명하는 게 아니라 단순히 어떤 현상과 다른 현상이 동시에 일어났을 때도 성립하기 때문에 상관관계가 인과관계를 설명해준다고 할 수는 없습니다. 단순히 ‘우연’에 의해 발생한 상관관계가 너무 많이 존재하기 때문이죠.&lt;/p&gt;
+&lt;h2&gt;원인과 결과를 제대로 아는 것이 중요한 이유&lt;/h2&gt;
+&lt;p&gt;&lt;br&gt; 위에서 살펴보았듯이 인과 관계를 잘 못 안 상태에서 잘못된 판단을 하여 엉뚱한 방향으로 프로덕트를 개선한다면 날리게 될 비용은 상당하겠죠.&lt;/p&gt;
+&lt;p&gt;예를 들어 프로모션을 진행했더니 그 달의 매출이 전 달에 비해 10% 증가했다고 가정해볼게요.&lt;br&gt;
+이 사실을 단순하게 받아들여 “프로모션을 진행했더니 매출이 10%늘었구나”라고 생각한다면 매달 열심히 프로모션을 기획하고 진행하게 되겠죠.&lt;/p&gt;
+&lt;p&gt;한가지 예를 더 들어 볼게요. 이번에는 구매버튼의 색상을 변경했는데 우연히 매출이 20% 늘었다고 생각해볼게요. &lt;br&gt;
+위와 마찬가지로 단순하게 받아들이게 된다면 매달매달 열시히 온갖 버튼들의 색상을 변경하고 있을수도 있을 거에요.&lt;/p&gt;
+&lt;p&gt;이 두가지 케이스 모두 조금 극단적인 예시이지만, 정확한 원인에 대한 진단을 진행하지 않는다면 1회성의 이벤트를 믿고 열심히 삽질을하게 된다는 것을 알 수 있죠.&lt;/p&gt;
+&lt;p&gt;그리고 이런 일은 사실 현실에서도 빈번히 일어나기도 하고, 경험이 있을수도 있을거에요. &lt;/p&gt;
+&lt;br&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;잘못된 인과관계 설정 → 잘못된 해결책 → 삽질 → 돈 낭비&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;이렇듯 두 사건의 우연한 상관관계를 인과관계로 잘못 판단하고 행동하게 된다면 결국은 큰 비용을 치르게 되겠죠. 잘못된 행동으로 인한 낭비를 막기 위해서 인과 관계를 정확하게 파악하는 것은 무엇보다 중요합니다&lt;/h3&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[원인과 결과를 제대로 알아야 하는 이유]]></title><description><![CDATA[…]]></description><link>https://Huride.github.io/blog/reason-causality 복사본/</link><guid isPermaLink="false">https://Huride.github.io/blog/reason-causality 복사본/</guid><pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;인과관계를 왜 알아야 할까?&lt;/h2&gt;
 &lt;p&gt;&lt;br&gt;프로덕트의 데이터를 분석하는 이유는 데이터를 통해서 현재의 상황을 진단하고, 현재 영향을 미치고 있는 요인이 향후 어떤 결과를 가져올 지 파악하기 위해서죠. 특히 어떤 지표들이 안좋은 움직임을 보이고 있다면 어떤 원인으로 인해서 지표들이 영향을 받고 있는지 확인하고, 안좋은 영향들을 제거해 정상화 시키려고 노력할텐데요. 결국 정확한 원인을 찾을 수 있어야 좋은 대처를 할 수 있죠.&lt;/p&gt;
 &lt;p&gt;우리가 원인을 파악하려는 이유는 목표로 하는 결과를 우리가 원하는 방향으로 조절해 이득을 얻기 위해서입니다. 우리가 관심 현상에 대한 원인을 파악해 결과를 원하는 방향으로 이끌기 위해 현상에 영향을 주는 원인들을 조정하기 위해서죠.&lt;/p&gt;
 &lt;br&gt;

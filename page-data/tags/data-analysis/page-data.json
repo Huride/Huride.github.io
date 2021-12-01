@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tags-template-js",
     "path": "/tags/data-analysis/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"nodes":[{"fields":{"slug":"/blog/reason-causality/"},"frontmatter":{"date":"November 28, 2021","description":"우리가 원인을 파악하려는 이유는 목표로 하는 결과를 우리가 원하는 방향으로 조절해 이득을 얻기 위해서인데요. 잘못된 원인 파악이 미치는 영향을 통해 왜 인과를 정확하게 알야햐 하는 지 알아보겠습니다.","tags":["causul inference","data analysis"],"title":"원인과 결과를 제대로 알아야 하는 이유"},"timeToRead":2,"excerpt":"…"}]}},"pageContext":{"tag":"data analysis"}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"nodes":[{"fields":{"slug":"/blog/reason-causality/"},"frontmatter":{"date":"November 28, 2021","description":"우리가 원인을 파악하려는 이유는 목표로 하는 결과를 우리가 원하는 방향으로 조절해 이득을 얻기 위해서인데요. 잘못된 원인 파악이 미치는 영향을 통해 왜 인과를 정확하게 알야햐 하는 지 알아보겠습니다.","tags":["causul inference","data analysis"],"title":"원인과 결과를 제대로 알아야 하는 이유"},"timeToRead":2,"excerpt":"…"},{"fields":{"slug":"/blog/reason-causality 복사본/"},"frontmatter":{"date":"November 28, 2021","description":"우리가 원인을 파악하려는 이유는 목표로 하는 결과를 우리가 원하는 방향으로 조절해 이득을 얻기 위해서인데요. 잘못된 원인 파악이 미치는 영향을 통해 왜 인과를 정확하게 알야햐 하는 지 알아보겠습니다.","tags":["causul inference","data analysis"],"title":"원인과 결과를 제대로 알아야 하는 이유"},"timeToRead":2,"excerpt":"…"}]}},"pageContext":{"tag":"data analysis"}},
     "staticQueryHashes": ["2555585279","2714594843","3159585216"]}

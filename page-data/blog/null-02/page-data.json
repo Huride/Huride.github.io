@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-post-template-js",
     "path": "/blog/null-02/",
-    "result": {"data":{"markdownRemark":{"excerpt":"","html":"","frontmatter":{"title":"","tags":["Product","UIUX planning","Data Analisys"],"date":"November 02, 2021","description":null,"profile_image":null}},"prev":{"frontmatter":{"title":"원인과 결과를 제대로 알아야 하는 이유"},"fields":{"slug":"/blog/reason-causality/"}},"next":{"frontmatter":{"title":""},"fields":{"slug":"/blog/null-01/"}}},"pageContext":{"slug":"/blog/null-02/","prevSlug":"/blog/reason-causality/","nextSlug":"/blog/null-01/"}},
+    "result": {"data":{"markdownRemark":{"excerpt":"","html":"","frontmatter":{"title":"","tags":["Product","UIUX planning","Data Analisys"],"date":"November 02, 2021","description":null,"profile_image":null}},"prev":{"frontmatter":{"title":"원인과 결과를 제대로 알아야 하는 이유"},"fields":{"slug":"/blog/reason-causality 복사본/"}},"next":{"frontmatter":{"title":""},"fields":{"slug":"/blog/null-01/"}}},"pageContext":{"slug":"/blog/null-02/","prevSlug":"/blog/reason-causality 복사본/","nextSlug":"/blog/null-01/"}},
     "staticQueryHashes": ["2555585279","2714594843","3159585216"]}
