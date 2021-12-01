@@ -35,6 +35,14 @@ const SEO = ({ description, lang, meta, title }) => {
       defaultTitle={defaultTitle}
       meta={[
         {
+            name: 'google-site-verification',
+            content: 'W9pwWlnFRbm0JvWKNVbi2n3fZhOoYQvBGP5rzK9fWnA'
+        },
+        {
+            name: 'naver-site-verification',
+            content: 'e19e8b1a34eaa20a377349c16b962a2750923314'
+        },
+        {
           name: `description`,
           content: metaDescription,
         },

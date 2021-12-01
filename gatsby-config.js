@@ -29,11 +29,26 @@ module.exports = {
   plugins: [
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-image`,
-    'gatsby-plugin-sitemap',
+    'gatsby-plugin-advanced-sitemap',
     'gatsby-plugin-netlify',
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    {
+        resolve: `gatsby-plugin-google-adsense`,
+        options: {
+            publisherId: `ca-pub-3158497424650748`
+        },
+    },
+    {
+        resolve: `gatsby-plugin-google-gtag`,
+        options: {
+            trackingIds: [
+                'G-TMXCW5TKZ8',
+                `ca-pub-3158497424650748`,
+        ],
+    },
+    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
