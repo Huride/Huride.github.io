@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-tags-js",
     "path": "/tags/",
-    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"Data Analisys","totalCount":1},{"fieldValue":"Johan","totalCount":1},{"fieldValue":"Product","totalCount":1},{"fieldValue":"Product Owner @Fintech Startup","totalCount":1},{"fieldValue":"UIUX planning","totalCount":1},{"fieldValue":"causul inference","totalCount":3},{"fieldValue":"data analysis","totalCount":3}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"Data Analisys","totalCount":1},{"fieldValue":"Johan","totalCount":1},{"fieldValue":"Product","totalCount":1},{"fieldValue":"Product Owner @Fintech Startup","totalCount":1},{"fieldValue":"UIUX planning","totalCount":1},{"fieldValue":"causul inference","totalCount":1},{"fieldValue":"data analysis","totalCount":1}]}},"pageContext":{}},
     "staticQueryHashes": ["2555585279","2714594843","3159585216"]}
