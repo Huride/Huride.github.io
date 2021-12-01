@@ -31,6 +31,7 @@ module.exports = {
     `gatsby-plugin-image`,
     'gatsby-plugin-sitemap',
     'gatsby-plugin-netlify',
+    `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
@@ -69,6 +70,14 @@ module.exports = {
             options: {
               maxWidth: 630,
             },
+          },
+          {
+            resolve: `gatsby-plugin-robots-txt`,
+          options: {
+              host: `https://Huride.github.io`,
+              sitemap: `https://Huride.github.io/sitemap/sitemap-index.xml`,
+          policy: [{userAgent: `*`, allow: `/`}]
+            }
           },
           {
             resolve: `gatsby-remark-responsive-iframe`,
