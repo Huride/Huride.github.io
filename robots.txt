@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://Huride.github.io/sitemap/sitemap-index.xml
+Sitemap: https://Huride.github.io/sitemap.xml
 Host: https://huride.github.io
