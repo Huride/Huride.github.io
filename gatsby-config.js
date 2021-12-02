@@ -90,7 +90,7 @@ module.exports = {
             resolve: `gatsby-plugin-robots-txt`,
           options: {
               host: `https://Huride.github.io`,
-              sitemap: `https://Huride.github.io/sitemap/sitemap-index.xml`,
+              sitemap: `https://Huride.github.io/sitemap.xml`,
           policy: [{userAgent: `*`, allow: `/`}]
             }
           },
