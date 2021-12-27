@@ -190,3 +190,12 @@
   Link: </component---src-pages-tags-js-7c1196d02f45fc07e168.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/trap-of-data/
+  Link: </webpack-runtime-062f0a8d634d7dc8833e.js>; rel=preload; as=script
+  Link: </framework-f6f4ea3929eea62ad914.js>; rel=preload; as=script
+  Link: </532a2f07-ec78b6b598e55b099560.js>; rel=preload; as=script
+  Link: </app-cf6f03ed3bfddda0fe12.js>; rel=preload; as=script
+  Link: </commons-eba9107fe368f0c88ea5.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-c155aac734fe151013b9.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/trap-of-data/page-data.json>; rel=preload; as=fetch; crossorigin

@@ -1,7 +1,256 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Johan]]></title><description><![CDATA[안녕하세요]]></description><link>https://Huride.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 02 Dec 2021 10:20:14 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Johan’s Blog  .]]></description><link>https://Huride.github.io/</link><guid isPermaLink="false">https://Huride.github.io/</guid><content:encoded>&lt;h1&gt;Johan’s Blog&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Johan]]></title><description><![CDATA[안녕하세요]]></description><link>https://Huride.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 27 Dec 2021 16:47:23 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Johan’s Blog  .]]></description><link>https://Huride.github.io/</link><guid isPermaLink="false">https://Huride.github.io/</guid><content:encoded>&lt;h1&gt;Johan’s Blog&lt;/h1&gt;
 &lt;p&gt;&lt;br&gt; .&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Contact Me]]></title><description><![CDATA[Get in Touch. If you’ve got an inquiry for a job or project, drop me a line at hsyangjohan@gmail.com or fill the form right here.]]></description><link>https://Huride.github.io/contact/</link><guid isPermaLink="false">https://Huride.github.io/contact/</guid><content:encoded>&lt;h1&gt;Get in Touch.&lt;/h1&gt;
 &lt;p&gt;&lt;br&gt;If you’ve got an inquiry for a job or project, &lt;br&gt;drop me a line at hsyangjohan@gmail.com &lt;br&gt;or fill the form right here.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hi, I’m Johan…]]></description><link>https://Huride.github.io/about/</link><guid isPermaLink="false">https://Huride.github.io/about/</guid><content:encoded>&lt;h1&gt;Hi, I’m Johan&lt;/h1&gt;
-&lt;p&gt;&lt;br&gt; 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야&lt;/p&gt;</content:encoded></item><item><title><![CDATA[원인과 결과를 제대로 알아야 하는 이유]]></title><description><![CDATA[…]]></description><link>https://Huride.github.io/blog/reason-causality/</link><guid isPermaLink="false">https://Huride.github.io/blog/reason-causality/</guid><pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;인과관계를 왜 알아야 할까?&lt;/h2&gt;
+&lt;p&gt;&lt;br&gt; 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야 나는 이런 사람이다 이말이야&lt;/p&gt;</content:encoded></item><item><title><![CDATA[데이터의 함정에 빠지지 않는 방법]]></title><description><![CDATA[…]]></description><link>https://Huride.github.io/blog/trap-of-data/</link><guid isPermaLink="false">https://Huride.github.io/blog/trap-of-data/</guid><pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;들어가기에 앞서&lt;/h2&gt;
+&lt;p&gt;일을 하면서 그리고 생활 속에서도 우리는 다양한 숫자들을 마주하게 되는데요. 혹시 그 숫자들에 속고 있다는 생각을 해보신 적은 없으신가요? &lt;br&gt; 이번 글에서는 우리가 일상에서 마주하게 되는 그리고 회사에서 업무를 하면서, 데이터 분석 결과를 확인하면서 흔히 속게 되는 데이터의 함정들에 대해서 알아보려고 합니다.&lt;/p&gt;
+&lt;h2&gt;평균이라는 함정&lt;/h2&gt;
+&lt;p&gt;종종 신문을 보다 보면 평균 연봉에 대한 기사를 볼 수 있는 데요. 그 기사를 보면서 내 연봉을 비교해보고 자괴감에 빠지다가, “뭐 평균이라 그렇지 누군가 한 명이 엄청 큰 연봉을 받고 있는 걸 거야”. 라고 생각하며 정신을 차릴때가 있는데요.&lt;/p&gt;
+&lt;p&gt;평균이라는 게 분명 가장 많이 그리고 흔히 쓰이는 대표값이라는 사실에는 누구도 반론의 여지는 없겠지만, 또 평균이 현상을 정확하게 설명해주지 않는 다는 사실 역시 많이 알고 있을 거에요. &lt;/p&gt;
+&lt;p&gt;우선 아래의 예시를 한 번 살펴면서 자세히 얘기해 볼 게요.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;✔︎ A사 : 평균 연령 32세, 평균연봉 8,000만원
+✔︎ B사 : 평균 연령 35세, 평균연봉 5,100만원&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;이 두 기업의 정보를 훑어 봤을 때 어떤 기업에 더 가고 싶으신가요? 혹은 어떤 기업이 더 좋아보시나요?&lt;br&gt;아마 A사가 더 젋고, 연봉도 높아보이니 훨씬 좋은 회사라고 생각하게 될 거 같은데요. &lt;strong&gt;이렇게 생각하는 게 정말 올바른 해석일까요?&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;데이터를 쪼개보면 어떨까요?&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/512ffe58a8e826a3698cab07a327a9b8/3e5d7/trap_of_mean.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 33.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAHABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHasJIX/8QAFhABAQEAAAAAAAAAAAAAAAAAATEA/9oACAEBAAEFAs0n/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAEP/aAAgBAQAGPwJ//8QAFxAAAwEAAAAAAAAAAAAAAAAAARAxQf/aAAgBAQABPyEzWX//2gAMAwEAAgADAAAAEP8Az//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAAIDAQEAAAAAAAAAAAAAAAERACExQWH/2gAIAQEAAT8QsZNrFH2WQtIHfYK606X2f//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;trap_of_mean&quot;
+        title=&quot;trap_of_mean&quot;
+        src=&quot;/static/512ffe58a8e826a3698cab07a327a9b8/828fb/trap_of_mean.jpg&quot;
+        srcset=&quot;/static/512ffe58a8e826a3698cab07a327a9b8/ff44c/trap_of_mean.jpg 158w,
+/static/512ffe58a8e826a3698cab07a327a9b8/a6688/trap_of_mean.jpg 315w,
+/static/512ffe58a8e826a3698cab07a327a9b8/828fb/trap_of_mean.jpg 630w,
+/static/512ffe58a8e826a3698cab07a327a9b8/0ede0/trap_of_mean.jpg 945w,
+/static/512ffe58a8e826a3698cab07a327a9b8/3e5d7/trap_of_mean.jpg 1126w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;평균은 A사가 훨씬 높지만, 실상은 임원들을 빼면 대다수 20대 초반의 젊은 직원들의 연봉은 대표의 1/5에도 못미치죠. &lt;br&gt; 평균으로 봤을 때는 훨씬 좋아보이던 A사가 실상은 그렇지 않다는 걸 알 수 있는데요. 오히려 B사가 괜찮게 느껴지실거에요. 이렇듯 단순히 평균만으로 판단했을 때에는 해석의 오류가 생길 여지가 있습니다.&lt;/p&gt;
+&lt;p&gt;평균이 분명 가장 널리 사용되는 대표값이긴 하지만, 그 외에 ‘중앙값’이나 ‘최빈값’이라는 말도 들어보셨을 거에요. &lt;br&gt;&lt;strong&gt;중앙값&lt;/strong&gt;은 수치 집합의 원소를 작은 순부터 큰 순서대로 정렬했을 때 가운데에 위치하는 값인데요. 위의 이미지로 생각하면 A사의 경우 임원2와 직원1의 연봉의 평균인 6,500만원이 되겠네요. B사의 경우는 4,900만원이 되구요. B사의 경우는 큰 차이가 없지만 A사의 경우는 그래도 평균과의 차이가 꽤 나게 되죠.&lt;br&gt;&lt;strong&gt;최빈값&lt;/strong&gt;은 수치 집합의 원소가 가장 많은 원소가 포함된 범위의 값이라고 생각하면 됩니다.&lt;br&gt; &lt;strong&gt;이런 다른 대표값들도 같이 확인해야 평균이 주는 함정에서 빠져나올 수가 있죠.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;대표값인 평균은 진실을 ‘잘’ 요약해 주지만, 모든 진실을 완벽하게 반영하는 것은 아니라는 점을 기억해야 합니다&lt;/em&gt;&lt;/strong&gt; &lt;/p&gt;
+&lt;h2&gt;심슨의 역설로 알아보는 또 다른 함정&lt;/h2&gt;
+&lt;p&gt;통계의 함정과 약간은 비슷할 수 있는 또 다른 함정이 있는데요. 바로 심슨의 역설(Simpson’s Paradox)입니다.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/204870b5bf4ff752574a0e91815b1294/ff688/simpsons_paradox.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.9493670886076%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB3VWIaQV//8QAFxABAQEBAAAAAAAAAAAAAAAAEQABEP/aAAgBAQABBQK15os3/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhAAAwAAAAAAAAAAAAAAAAAAACAh/9oACAEBAAY/AiL/AP/EABsQAQACAgMAAAAAAAAAAAAAAAEAERAhMYGh/9oACAEBAAE/IVpYmjfXuEuXUowCT//aAAwDAQACAAMAAAAQlw//xAAWEQEBAQAAAAAAAAAAAAAAAAARECH/2gAIAQMBAT8QwJ//xAAWEQEBAQAAAAAAAAAAAAAAAAARARD/2gAIAQIBAT8Qqsz/xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMUFxUYGR/9oACAEBAAE/EET1tjTrSloKl+yBRLG2DkO/MuK0ZvT9l4HvE//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;simpson&amp;#39;s_paradox&quot;
+        title=&quot;simpson&amp;#39;s_paradox&quot;
+        src=&quot;/static/204870b5bf4ff752574a0e91815b1294/828fb/simpsons_paradox.jpg&quot;
+        srcset=&quot;/static/204870b5bf4ff752574a0e91815b1294/ff44c/simpsons_paradox.jpg 158w,
+/static/204870b5bf4ff752574a0e91815b1294/a6688/simpsons_paradox.jpg 315w,
+/static/204870b5bf4ff752574a0e91815b1294/828fb/simpsons_paradox.jpg 630w,
+/static/204870b5bf4ff752574a0e91815b1294/0ede0/simpsons_paradox.jpg 945w,
+/static/204870b5bf4ff752574a0e91815b1294/ff688/simpsons_paradox.jpg 1226w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+심슨의 역설은 여러 부분 그룹의 자료를 합했을 때의 결과와 각각 부분 그룹의 결과가 다른 때를 말하는데요. 그 결과가 부분의 결과와 달라지는 결과가 발생하는 것은 일반적인 상식으로는 쉽게 이해가 되지 않으므로 Paradox라고 합니다.&lt;/p&gt;
+&lt;h3&gt;신장결석 치료에서의 예시를 보면서 얘기해 볼게요&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 566px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/73574488bc6e56de7febe67f0b295d0d/a0966/simpsons_paradox_ex_01.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 20.253164556962027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAEABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAEDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAdyAsB//xAAXEAEAAwAAAAAAAAAAAAAAAAABABAR/9oACAEBAAEFAkmV/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAEP/aAAgBAQAGPwJ//8QAGBABAAMBAAAAAAAAAAAAAAAAAQARMUH/2gAIAQEAAT8hudY26wyf/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAAICAwAAAAAAAAAAAAAAAAERACExUXH/2gAIAQEAAT8QC5PCpWrWioKEZn//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;simpsons_paradox_ex_01&quot;
+        title=&quot;simpsons_paradox_ex_01&quot;
+        src=&quot;/static/73574488bc6e56de7febe67f0b295d0d/a0966/simpsons_paradox_ex_01.jpg&quot;
+        srcset=&quot;/static/73574488bc6e56de7febe67f0b295d0d/ff44c/simpsons_paradox_ex_01.jpg 158w,
+/static/73574488bc6e56de7febe67f0b295d0d/a6688/simpsons_paradox_ex_01.jpg 315w,
+/static/73574488bc6e56de7febe67f0b295d0d/a0966/simpsons_paradox_ex_01.jpg 566w&quot;
+        sizes=&quot;(max-width: 566px) 100vw, 566px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+위 테이블을 보고 어떤 약물이 더 효과적인가라고 묻는다면, 다들 ‘치료법 B가 더 효과적이다’라고 답할텐데요. 하지만 이 테이블에 부분 그룹에 대한 변수(신장 결석의 크기)를 추가하여 좀 더 자세히 살펴보면 얘기가 달라질 수 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b3661f567e4b5551bb6cc3f3e15d5f7e/63a7e/simpsons_paradox_ex_02.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 21.51898734177215%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAEABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAIDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAduIWA//xAAYEAACAwAAAAAAAAAAAAAAAAAAAREhMf/aAAgBAQABBQIiln//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAVEAEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAQAGPwJv/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEhMUFh/9oACAEBAAE/IWpGPSs//9oADAMBAAIAAwAAABBzz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAAIBBQEAAAAAAAAAAAAAAAABESExQWFxkf/aAAgBAQABPxDMv2xBvVGwscD/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;simpsons_paradox_ex_02&quot;
+        title=&quot;simpsons_paradox_ex_02&quot;
+        src=&quot;/static/b3661f567e4b5551bb6cc3f3e15d5f7e/828fb/simpsons_paradox_ex_02.jpg&quot;
+        srcset=&quot;/static/b3661f567e4b5551bb6cc3f3e15d5f7e/ff44c/simpsons_paradox_ex_02.jpg 158w,
+/static/b3661f567e4b5551bb6cc3f3e15d5f7e/a6688/simpsons_paradox_ex_02.jpg 315w,
+/static/b3661f567e4b5551bb6cc3f3e15d5f7e/828fb/simpsons_paradox_ex_02.jpg 630w,
+/static/b3661f567e4b5551bb6cc3f3e15d5f7e/63a7e/simpsons_paradox_ex_02.jpg 670w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+신장 결석 크기에 따른 각각의 치료법의 효과인데요. 위의 결과를 보고도 치료법 B가 더 효과적이라는 말을 할 수 있을까요? &lt;br&gt; 이렇게 세부 변수까지 확인했을 때에는 결석의 크기가 작거나 큰 상황 둘 다에서 치료법 A가 치료법 B보다 효과적이라는 결론을 얻을 수 있죠. &lt;br&gt; 그리고 이러한 변화의 차이는 시도가 많았던 그룹이 전체의 평균을 좌우하게 되면서 벌어지는 현상이라고 볼 수 있습니다. &lt;br&gt; 결과적으로 세부 변수를 확인하지 않고 데이터를 통합해서 확인하게 되면 원래 결과와는 전혀 다른 의미를 도출하는 오류를 범하게 되는 것을 확인할 수 있죠.&lt;/p&gt;
+&lt;p&gt;내 프로덕트의 지표를 분석한다고 생각해보면, 자주 고민하게 되는 문제중 하나일 텐데요. 매일매일 지표가 나가는 데 이걸 일주일 합산을 보고 싶다고 한다면, 이미 계산된 데일리 지표의 평균을 일주일치 모아서 다시 평균해서 나갈지 아니면 일주일치의 데이터를 모두 합해서 평균을 새로 계산해야 할 지에 대한 고민이과 비슷하다고 생각되는데요. &lt;br&gt; 매일매일의 지표를 평균하면 그 매일의 성과가 평균이 되어서 나가는 것이 되고, 일주일치를 다 합산해서 평균을 다시 구하게 되면 일주일 중에 클릭이 많거나, 전환이 많았던 날, 혹은 배속이 유난히 많았던 날이 전체 평균을 좌우하게 되겠죠.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;데이터의 세부 변수들을 확인하지 않는 다면 의도했던 결과와는 전혀 다른 결론을 내릴수 있다는 점을 명심해야 합니다&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;선형적인 사고의 오류&lt;/h2&gt;
+&lt;p&gt;우선 내가 회사의 차량 개발 담당자라고 생각해볼게요. 회사의 주요 제품은 1리터에 10km을 달리는 SUV차량과 1리터에 20km을 달리는 세단 차량이 있다고 가정 해보겠습니다. 요즘 대세인 ESG를 따라가기 위해 기존 제품의 연비를 절감하는 목표를 할당 받았다고 생각해볼게요.&lt;/p&gt;
+&lt;p&gt;아래의 상황을 봤을 때 어떤 모델을 업그레이드 하는 게 좋을까요?&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;A. 연비가 10km/ℓ인 SUV를 20km/ℓ로 향상시킨다
+B. 연비가 20km/ℓ인 세단은 50km/ℓ로 향상시킨다&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;위의 문장만 놓고 직관적으로 생각해본다면 B가 더 좋은 결정이라는 생각이 들거 같은데요. 연비의 상승폭으로 볼 때 30km/ℓ의 증가가 10km/ℓ증가 보다 훨씬 크기 때문이죠. 백분율로 생각해도 100% 향상인 A의 결과보다, 150% 향상되는 B의 결과가 더 좋아보입니다.&lt;/p&gt;
+&lt;h3&gt;정말 이게 최선의 판단일까요?&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8cde3f213f00a1cb7891b3857577d3f8/72747/linear_01.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 26.58227848101266%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAFABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB2gUB/8QAFxABAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAQABBQJO5F//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAWEAADAAAAAAAAAAAAAAAAAAAAEDH/2gAIAQEABj8CKv/EABgQAAMBAQAAAAAAAAAAAAAAAAABESHh/9oACAEBAAE/Ia8FV7MI/9oADAMBAAIAAwAAABDzz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAQACAwEAAAAAAAAAAAAAAAEAESExUWH/2gAIAQEAAT8QyFmdjaA61GjkFJa+rP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;linear_01&quot;
+        title=&quot;linear_01&quot;
+        src=&quot;/static/8cde3f213f00a1cb7891b3857577d3f8/828fb/linear_01.jpg&quot;
+        srcset=&quot;/static/8cde3f213f00a1cb7891b3857577d3f8/ff44c/linear_01.jpg 158w,
+/static/8cde3f213f00a1cb7891b3857577d3f8/a6688/linear_01.jpg 315w,
+/static/8cde3f213f00a1cb7891b3857577d3f8/828fb/linear_01.jpg 630w,
+/static/8cde3f213f00a1cb7891b3857577d3f8/72747/linear_01.jpg 764w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+실제로 계산을 해보면 1만 km를 달렸을 때 A는 500ℓ를 아끼게 되지만, B는 300ℓ를 아끼는 데 그치는 것을 알게 되는데요. 결과를 보고 다소 의아해 할 수도 있을 것 같은데 이는 우리의 두뇌는 일반적으로 선형적(linear)인 사고를 하기 때문입니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cb7c2a00a090fd1366be98f9156fc002/4b190/linear_02.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 89.24050632911393%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAIBBAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHuXGS0iQa4P//EABwQAAIABwAAAAAAAAAAAAAAAAABAxAhMTJBQv/aAAgBAQABBQLcqJiY79RMv//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABcQAQADAAAAAAAAAAAAAAAAAAEQICH/2gAIAQEABj8CxsT/AP/EABwQAAMAAwADAAAAAAAAAAAAAAABESExQRBRYf/aAAgBAQABPyG35BO+JgxDm01Si9CrR0i54M1if//aAAwDAQACAAMAAAAQMA88/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHRABAAICAwEBAAAAAAAAAAAAAQARITFBUWEQof/aAAgBAQABPxB5KqauziGOk2dfDDLBX8jTRDm9wLnLVKSw0tza3hm5S/PsQCQo0z//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;linear_02&quot;
+        title=&quot;linear_02&quot;
+        src=&quot;/static/cb7c2a00a090fd1366be98f9156fc002/828fb/linear_02.jpg&quot;
+        srcset=&quot;/static/cb7c2a00a090fd1366be98f9156fc002/ff44c/linear_02.jpg 158w,
+/static/cb7c2a00a090fd1366be98f9156fc002/a6688/linear_02.jpg 315w,
+/static/cb7c2a00a090fd1366be98f9156fc002/828fb/linear_02.jpg 630w,
+/static/cb7c2a00a090fd1366be98f9156fc002/4b190/linear_02.jpg 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+처음 상황을 봤을 때 우리는 위의 그림처럼 생각을 하게 되는 것이죠. 하지만 이 그래프는 정확하지 않습니다. 연료 소비량과 연비는 선형적인 함수관계가 아니기 때문이죠. 실제로 계산해 보면 그래프는 아래와 같은 모습을 확인할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f7484a095fdffce4bc4017494d55de35/4b190/linear_03.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 98.10126582278481%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB9vpim2SILAf/xAAaEAACAgMAAAAAAAAAAAAAAAAAARESECFC/9oACAEBAAEFAp3jokakqiqP/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFRABAQAAAAAAAAAAAAAAAAAAMDH/2gAIAQEABj8Co//EABwQAQACAgMBAAAAAAAAAAAAAAEAITFREBFxkf/aAAgBAQABPyFOFIWcIArMOxdTwwMpZF9/Z//aAAwDAQACAAMAAAAQkNg8/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/ECv/xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8QI//EAB8QAQACAQMFAAAAAAAAAAAAAAEAESExUeEQYXGxwf/aAAgBAQABPxB2zI1kuOh36U0iitGHmBoMtDeW4oBhfyagHuXrEbQeGemf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;linear_03&quot;
+        title=&quot;linear_03&quot;
+        src=&quot;/static/f7484a095fdffce4bc4017494d55de35/828fb/linear_03.jpg&quot;
+        srcset=&quot;/static/f7484a095fdffce4bc4017494d55de35/ff44c/linear_03.jpg 158w,
+/static/f7484a095fdffce4bc4017494d55de35/a6688/linear_03.jpg 315w,
+/static/f7484a095fdffce4bc4017494d55de35/828fb/linear_03.jpg 630w,
+/static/f7484a095fdffce4bc4017494d55de35/4b190/linear_03.jpg 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+기술 개발 초기의 개선은 약간의 개선으로 큰 효과를 볼 수 있지만, 어느 정도 기술이 완숙해진 이후에는 초기와 비슷한 개선 효과를 얻기 위해서는 초기와는 비교할 수 없을 정도의 많은 양의 노력과 시간이 투입되어야 한다는 사실을 경험적으로 알고 있을 거라고 생각하는데요. 이렇듯 대부분의 현실에서의 문제는 선형적이기 보다는 비선형적인 경우가 많습니다. &lt;br&gt; 하지만 실제 숫자를 보게 되었을 때 우리는 단순히 숫자의 관계를 보고 선형적으로 사고하고 결정하려고 하죠.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;결국 단수히 숫자의 관계를 보고 대략적으로 파악하는 게 아닌 실제로 계산해보고 또 시각화해 그려보면서 데이터들의 관계를 파악해야 할 필요가 있습니다.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;마치며…&lt;/h2&gt;
+&lt;p&gt;데이터나 수치들을 통한 생각들을 할 때 흔히 빠질수 있는 몇가지 함정들에대해서 살펴보았는데요. 이번 글을 작성하면서 생각보다 쉽고 흔하게 수치들이 주는 함정에 빠져서 잘못된 결론을 내리는 경우들이 있다는 생각이 들었습니다. 어떤 데이터를 접하게 될 때 단편적으로 바라보고 결론을 내는 게 아니라 좀 더 다양한 관점에서 데이터를 뜯고 맛보아야 할 것 같다는 생각이 드네요. &lt;br&gt; 위의 내용들을 좀 더 자세하게 확인하고 싶다면 글을 쓰면서 주로 참고한 아티클 목록을 아래 작성해두었으니 살펴보아도 좋을것 같습니다.&lt;/p&gt;
+&lt;h2&gt;[참고자료]&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://hbr.org/2017/05/linear-thinking-in-a-nonlinear-world&quot;&gt;&lt;strong&gt;&lt;em&gt;Linear Thinking in a Nonlinear World&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;,  Harvard Business Review, by Bart de Langhe, Stefano Puntoni, and Richard Larrick&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/ysunmi0427/simseunyi-yeogseol&quot;&gt;&lt;strong&gt;&lt;em&gt;심슨의 역설&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;,  데이터야놀자 2019, 윤선미&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[원인과 결과를 제대로 알아야 하는 이유]]></title><description><![CDATA[…]]></description><link>https://Huride.github.io/blog/reason-causality/</link><guid isPermaLink="false">https://Huride.github.io/blog/reason-causality/</guid><pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;인과관계를 왜 알아야 할까?&lt;/h2&gt;
 &lt;p&gt;&lt;br&gt;프로덕트의 데이터를 분석하는 이유는 데이터를 통해서 현재의 상황을 진단하고, 현재 영향을 미치고 있는 요인이 향후 어떤 결과를 가져올 지 파악하기 위해서죠. 특히 어떤 지표들이 안좋은 움직임을 보이고 있다면 어떤 원인으로 인해서 지표들이 영향을 받고 있는지 확인하고, 안좋은 영향들을 제거해 정상화 시키려고 노력할텐데요. 결국 정확한 원인을 찾을 수 있어야 좋은 대처를 할 수 있죠.&lt;/p&gt;
 &lt;p&gt;우리가 원인을 파악하려는 이유는 목표로 하는 결과를 우리가 원하는 방향으로 조절해 이득을 얻기 위해서입니다. 우리가 관심 현상에 대한 원인을 파악해 결과를 원하는 방향으로 이끌기 위해 현상에 영향을 주는 원인들을 조정하기 위해서죠.&lt;/p&gt;
 &lt;br&gt;
